@@ -1,5 +1,5 @@
 # BondIT-Global
-A basic code to determine a success or a failure of a givan flight.
+A basic code to determine a success or a failure of a given flight.
 
 In <i>Code</i> directory you can find all the code.
 
